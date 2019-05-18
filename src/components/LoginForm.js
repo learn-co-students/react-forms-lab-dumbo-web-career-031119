@@ -18,14 +18,11 @@ class LoginForm extends React.Component {
   }
 
   handleLogin = (e) => {
-    // console.log(e.target)
     e.preventDefault()
-    // console.log(this);
 
     if (this.state.password.length > 0 && this.state.username.length > 0) {
       this.props.handleLogin(this.state)
     }
-    console.log(this.state)
   }
 
   render() {
