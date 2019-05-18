@@ -20,7 +20,7 @@ the tests run correctly.
 
 * When instructed to save a value in the state, it doesn't matter what key you use, as long as it's in there!
 
-## `TwitterMessage`
+<!-- ## `TwitterMessage`
 
 ![Tweet Tweet Tweet](https://media.giphy.com/media/f4eXhcyemnGwM/giphy.gif)
 
@@ -37,7 +37,7 @@ change to the input.
 
 4. Show the _remaining_ characters in the component. It doesn't matter how you
 render it, as long as the number is correct. No need to guard against input that
-is too long — you can let the counter reach negative values.
+is too long — you can let the counter reach negative values. -->
 
 ## `LoginForm`
 
